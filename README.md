@@ -8,4 +8,4 @@ Meu nome é Flávio, e estou aprendendo as tecnologias utilizadas no Front End. 
 - 👯 Estou disponível para colaborar com projetos na área de Front End, utilizando HTML, CSS, JavaScript e outras ferramentes.
 
 # Contato
-Se quiser fazer contato comigo, pode utilizar o próprio GitHub ou meu [Twitter](twitter.com/flaviojoni). Ficarei grato em te conhecer.
+Se quiser fazer contato comigo, pode utilizar o próprio GitHub ou meu [Twitter](https://twitter.com/flaviojoni). Ficarei grato em te conhecer.
